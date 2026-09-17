@@ -10,7 +10,7 @@ A multi-class Java quiz application with improved structure, error handling, and
 ├── Quizm.java
 └── README.md
 ```
-
+ 
 ## Files Description
 
 ### 1. **Ques.java**
@@ -44,7 +44,8 @@ A multi-class Java quiz application with improved structure, error handling, and
    - Number of correct answers
    - Total questions
    - Percentage score
-
+![img1](image.png)
+![img2](image-1.png)
 ## Features
 
 **Multi-class design** - Clean separation of concerns  
